@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "frontend of QB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "QB"
+  ],
+  "author": "Peilin Rao, Lujia Kang, Leyao Zhou",
+  "license": "ISC"
+}
